@@ -1,0 +1,5 @@
+# Topic: The while loop (Condition- Controlled)
+count = 1
+while count <= 5:
+    print(f"Counting......{count}")
+    count += 1  #Increasing count until given condition reached
